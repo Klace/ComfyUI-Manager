@@ -15524,6 +15524,17 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
+        },
+        {            
+            "author": "BlackForestLabs",
+            "title": "Black Forest Labs API Nodes for ComfyUI",
+            "id": "bflapi",
+            "reference": "https://github.com/black-forest-labs/bfl-comfy-nodes",
+            "files": [
+                "https://github.com/black-forest-labs/bfl-comfy-nodes"
+            ],
+            "install_type": "git-clone",
+            "description": "Allows using FLUX .1 and 1.1 from BFL API"
         }
     ]
 }
